@@ -184,7 +184,7 @@ bindsym $mod+Shift+8 move container to workspace $ws8; workspace $ws8
  assign [class="Thunderbird"] $ws4
 # assign [class="Pale moon"] $ws2
  assign [class="whatsapp-nativefier"] $ws4
- assign [class="spotify"] $ws4
+ assign [class="Spotify"] $ws4
 
 # Open specific applications in floating mode
 for_window [title="alsamixer"] floating enable border pixel 1
